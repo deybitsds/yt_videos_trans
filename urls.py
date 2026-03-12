@@ -1,8 +1,7 @@
 #retrived from:
 # -----> https://youtube-playlist-link-extractor.vercel.app/
 
-list_urls = ["https://www.youtube.com/watch?v=ixcgyeKnBJg",
-"https://www.youtube.com/watch?v=j_oHko0S_Cc",
+list_urls = ["https://www.youtube.com/watch?v=j_oHko0S_Cc",
 "https://www.youtube.com/watch?v=ui_xa3p8kjo",
 "https://www.youtube.com/watch?v=aIjQNA5JGig",
 "https://www.youtube.com/watch?v=K-fbZnp2jxQ",
@@ -98,3 +97,7 @@ list_urls = ["https://www.youtube.com/watch?v=ixcgyeKnBJg",
 "https://www.youtube.com/watch?v=o_ipKNykdtc",
 "https://www.youtube.com/watch?v=uBCydyr-JP0",
 "https://www.youtube.com/watch?v=tQGFKa9wau4"]
+
+
+# 
+# "https://www.youtube.com/watch?v=ixcgyeKnBJg"
